@@ -1,0 +1,3 @@
+Aptos: 15207
+Comparecimentos: 12231
+Abstencoes: 2976
