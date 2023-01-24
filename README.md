@@ -1,6 +1,6 @@
 # brasil_elections
 
-Exercício desenvolvido durante as aulas de Algoritmos II, do Bacharelado em Sistemas de Informação (Instituto Federal Catarinense)
+## Exercício desenvolvido durante as aulas de Algoritmos II, do Bacharelado em Sistemas de Informação (Instituto Federal Catarinense):
 
 O TSE disponibiliza os dados das eleições em seu portal de Dados Abertos. O arquivo “eleicoes.csv” foi obtido do portal, e traz os dados referentes aos boletins de urna do segundo turno das eleições de 2022, para o estado de SC. Os dados estão no formato CSV (Valores Separados por Vírgula).
 Faça um programa que manipule os dados do arquivo, e:
