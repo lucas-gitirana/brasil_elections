@@ -1,0 +1,743 @@
+"ARARANGUÁ"
+--------------------------
+
+Secao: "1"
+Aptos: "391" 
+Comparecimentos: "318" 
+Abstencoes: "73"
+
+Secao: "2"
+Aptos: "393" 
+Comparecimentos: "315" 
+Abstencoes: "78"
+
+Secao: "3"
+Aptos: "390" 
+Comparecimentos: "326" 
+Abstencoes: "64"
+
+Secao: "4"
+Aptos: "391" 
+Comparecimentos: "311" 
+Abstencoes: "80"
+
+Secao: "5"
+Aptos: "394" 
+Comparecimentos: "317" 
+Abstencoes: "77"
+
+Secao: "6"
+Aptos: "387" 
+Comparecimentos: "297" 
+Abstencoes: "90"
+
+Secao: "7"
+Aptos: "386" 
+Comparecimentos: "307" 
+Abstencoes: "79"
+
+Secao: "8"
+Aptos: "385" 
+Comparecimentos: "295" 
+Abstencoes: "90"
+
+Secao: "9"
+Aptos: "391" 
+Comparecimentos: "308" 
+Abstencoes: "83"
+
+Secao: "10"
+Aptos: "386" 
+Comparecimentos: "310" 
+Abstencoes: "76"
+
+Secao: "11"
+Aptos: "380" 
+Comparecimentos: "309" 
+Abstencoes: "71"
+
+Secao: "12"
+Aptos: "391" 
+Comparecimentos: "303" 
+Abstencoes: "88"
+
+Secao: "13"
+Aptos: "388" 
+Comparecimentos: "305" 
+Abstencoes: "83"
+
+Secao: "14"
+Aptos: "382" 
+Comparecimentos: "289" 
+Abstencoes: "93"
+
+Secao: "15"
+Aptos: "388" 
+Comparecimentos: "317" 
+Abstencoes: "71"
+
+Secao: "16"
+Aptos: "261" 
+Comparecimentos: "201" 
+Abstencoes: "60"
+
+Secao: "17"
+Aptos: "257" 
+Comparecimentos: "202" 
+Abstencoes: "55"
+
+Secao: "18"
+Aptos: "310" 
+Comparecimentos: "239" 
+Abstencoes: "71"
+
+Secao: "19"
+Aptos: "309" 
+Comparecimentos: "236" 
+Abstencoes: "73"
+
+Secao: "20"
+Aptos: "310" 
+Comparecimentos: "225" 
+Abstencoes: "85"
+
+Secao: "21"
+Aptos: "314" 
+Comparecimentos: "251" 
+Abstencoes: "63"
+
+Secao: "22"
+Aptos: "315" 
+Comparecimentos: "253" 
+Abstencoes: "62"
+
+Secao: "23"
+Aptos: "309" 
+Comparecimentos: "226" 
+Abstencoes: "83"
+
+Secao: "24"
+Aptos: "307" 
+Comparecimentos: "237" 
+Abstencoes: "70"
+
+Secao: "25"
+Aptos: "349" 
+Comparecimentos: "283" 
+Abstencoes: "66"
+
+Secao: "26"
+Aptos: "346" 
+Comparecimentos: "276" 
+Abstencoes: "70"
+
+Secao: "27"
+Aptos: "343" 
+Comparecimentos: "295" 
+Abstencoes: "48"
+
+Secao: "28"
+Aptos: "311" 
+Comparecimentos: "277" 
+Abstencoes: "34"
+
+Secao: "29"
+Aptos: "372" 
+Comparecimentos: "281" 
+Abstencoes: "91"
+
+Secao: "30"
+Aptos: "374" 
+Comparecimentos: "299" 
+Abstencoes: "75"
+
+Secao: "31"
+Aptos: "231" 
+Comparecimentos: "188" 
+Abstencoes: "43"
+
+Secao: "32"
+Aptos: "293" 
+Comparecimentos: "242" 
+Abstencoes: "51"
+
+Secao: "33"
+Aptos: "300" 
+Comparecimentos: "229" 
+Abstencoes: "71"
+
+Secao: "34"
+Aptos: "301" 
+Comparecimentos: "259" 
+Abstencoes: "42"
+
+Secao: "35"
+Aptos: "388" 
+Comparecimentos: "302" 
+Abstencoes: "86"
+
+Secao: "36"
+Aptos: "380" 
+Comparecimentos: "278" 
+Abstencoes: "102"
+
+Secao: "37"
+Aptos: "388" 
+Comparecimentos: "301" 
+Abstencoes: "87"
+
+Secao: "38"
+Aptos: "383" 
+Comparecimentos: "278" 
+Abstencoes: "105"
+
+Secao: "39"
+Aptos: "386" 
+Comparecimentos: "301" 
+Abstencoes: "85"
+
+Secao: "40"
+Aptos: "381" 
+Comparecimentos: "289" 
+Abstencoes: "92"
+
+Secao: "41"
+Aptos: "192" 
+Comparecimentos: "159" 
+Abstencoes: "33"
+
+Secao: "42"
+Aptos: "267" 
+Comparecimentos: "216" 
+Abstencoes: "51"
+
+Secao: "44"
+Aptos: "304" 
+Comparecimentos: "226" 
+Abstencoes: "78"
+
+Secao: "45"
+Aptos: "349" 
+Comparecimentos: "267" 
+Abstencoes: "82"
+
+Secao: "46"
+Aptos: "202" 
+Comparecimentos: "161" 
+Abstencoes: "41"
+
+Secao: "47"
+Aptos: "433" 
+Comparecimentos: "382" 
+Abstencoes: "51"
+
+Secao: "48"
+Aptos: "395" 
+Comparecimentos: "330" 
+Abstencoes: "65"
+
+Secao: "49"
+Aptos: "365" 
+Comparecimentos: "282" 
+Abstencoes: "83"
+
+Secao: "50"
+Aptos: "363" 
+Comparecimentos: "292" 
+Abstencoes: "71"
+
+Secao: "51"
+Aptos: "367" 
+Comparecimentos: "306" 
+Abstencoes: "61"
+
+Secao: "52"
+Aptos: "367" 
+Comparecimentos: "301" 
+Abstencoes: "66"
+
+Secao: "53"
+Aptos: "365" 
+Comparecimentos: "296" 
+Abstencoes: "69"
+
+Secao: "54"
+Aptos: "369" 
+Comparecimentos: "294" 
+Abstencoes: "75"
+
+Secao: "55"
+Aptos: "366" 
+Comparecimentos: "290" 
+Abstencoes: "76"
+
+Secao: "56"
+Aptos: "368" 
+Comparecimentos: "301" 
+Abstencoes: "67"
+
+Secao: "57"
+Aptos: "367" 
+Comparecimentos: "298" 
+Abstencoes: "69"
+
+Secao: "58"
+Aptos: "395" 
+Comparecimentos: "328" 
+Abstencoes: "67"
+
+Secao: "59"
+Aptos: "386" 
+Comparecimentos: "313" 
+Abstencoes: "73"
+
+Secao: "60"
+Aptos: "395" 
+Comparecimentos: "323" 
+Abstencoes: "72"
+
+Secao: "61"
+Aptos: "393" 
+Comparecimentos: "313" 
+Abstencoes: "80"
+
+Secao: "62"
+Aptos: "396" 
+Comparecimentos: "316" 
+Abstencoes: "80"
+
+Secao: "63"
+Aptos: "392" 
+Comparecimentos: "320" 
+Abstencoes: "72"
+
+Secao: "64"
+Aptos: "396" 
+Comparecimentos: "323" 
+Abstencoes: "73"
+
+Secao: "65"
+Aptos: "394" 
+Comparecimentos: "320" 
+Abstencoes: "74"
+
+Secao: "66"
+Aptos: "396" 
+Comparecimentos: "324" 
+Abstencoes: "72"
+
+Secao: "67"
+Aptos: "395" 
+Comparecimentos: "315" 
+Abstencoes: "80"
+
+Secao: "68"
+Aptos: "264" 
+Comparecimentos: "207" 
+Abstencoes: "57"
+
+Secao: "69"
+Aptos: "304" 
+Comparecimentos: "259" 
+Abstencoes: "45"
+
+Secao: "72"
+Aptos: "377" 
+Comparecimentos: "310" 
+Abstencoes: "67"
+
+Secao: "73"
+Aptos: "389" 
+Comparecimentos: "297" 
+Abstencoes: "92"
+
+Secao: "74"
+Aptos: "387" 
+Comparecimentos: "302" 
+Abstencoes: "85"
+
+Secao: "75"
+Aptos: "391" 
+Comparecimentos: "320" 
+Abstencoes: "71"
+
+Secao: "76"
+Aptos: "270" 
+Comparecimentos: "193" 
+Abstencoes: "77"
+
+Secao: "77"
+Aptos: "234" 
+Comparecimentos: "187" 
+Abstencoes: "47"
+
+Secao: "78"
+Aptos: "384" 
+Comparecimentos: "298" 
+Abstencoes: "86"
+
+Secao: "79"
+Aptos: "386" 
+Comparecimentos: "296" 
+Abstencoes: "90"
+
+Secao: "81"
+Aptos: "368" 
+Comparecimentos: "319" 
+Abstencoes: "49"
+
+Secao: "93"
+Aptos: "408" 
+Comparecimentos: "338" 
+Abstencoes: "70"
+
+Secao: "94"
+Aptos: "393" 
+Comparecimentos: "341" 
+Abstencoes: "52"
+
+Secao: "96"
+Aptos: "302" 
+Comparecimentos: "249" 
+Abstencoes: "53"
+
+Secao: "99"
+Aptos: "260" 
+Comparecimentos: "214" 
+Abstencoes: "46"
+
+Secao: "101"
+Aptos: "341" 
+Comparecimentos: "297" 
+Abstencoes: "44"
+
+Secao: "102"
+Aptos: "389" 
+Comparecimentos: "325" 
+Abstencoes: "64"
+
+Secao: "103"
+Aptos: "427" 
+Comparecimentos: "369" 
+Abstencoes: "58"
+
+Secao: "105"
+Aptos: "306" 
+Comparecimentos: "254" 
+Abstencoes: "52"
+
+Secao: "106"
+Aptos: "383" 
+Comparecimentos: "314" 
+Abstencoes: "69"
+
+Secao: "107"
+Aptos: "389" 
+Comparecimentos: "321" 
+Abstencoes: "68"
+
+Secao: "109"
+Aptos: "311" 
+Comparecimentos: "241" 
+Abstencoes: "70"
+
+Secao: "110"
+Aptos: "385" 
+Comparecimentos: "313" 
+Abstencoes: "72"
+
+Secao: "111"
+Aptos: "368" 
+Comparecimentos: "298" 
+Abstencoes: "70"
+
+Secao: "112"
+Aptos: "392" 
+Comparecimentos: "297" 
+Abstencoes: "95"
+
+Secao: "113"
+Aptos: "369" 
+Comparecimentos: "289" 
+Abstencoes: "80"
+
+Secao: "114"
+Aptos: "389" 
+Comparecimentos: "313" 
+Abstencoes: "76"
+
+Secao: "115"
+Aptos: "389" 
+Comparecimentos: "318" 
+Abstencoes: "71"
+
+Secao: "116"
+Aptos: "300" 
+Comparecimentos: "254" 
+Abstencoes: "46"
+
+Secao: "117"
+Aptos: "357" 
+Comparecimentos: "292" 
+Abstencoes: "65"
+
+Secao: "118"
+Aptos: "362" 
+Comparecimentos: "285" 
+Abstencoes: "77"
+
+Secao: "119"
+Aptos: "299" 
+Comparecimentos: "264" 
+Abstencoes: "35"
+
+Secao: "120"
+Aptos: "390" 
+Comparecimentos: "312" 
+Abstencoes: "78"
+
+Secao: "121"
+Aptos: "341" 
+Comparecimentos: "260" 
+Abstencoes: "81"
+
+Secao: "122"
+Aptos: "382" 
+Comparecimentos: "307" 
+Abstencoes: "75"
+
+Secao: "124"
+Aptos: "369" 
+Comparecimentos: "314" 
+Abstencoes: "55"
+
+Secao: "125"
+Aptos: "366" 
+Comparecimentos: "288" 
+Abstencoes: "78"
+
+Secao: "126"
+Aptos: "365" 
+Comparecimentos: "298" 
+Abstencoes: "67"
+
+Secao: "127"
+Aptos: "393" 
+Comparecimentos: "312" 
+Abstencoes: "81"
+
+Secao: "128"
+Aptos: "343" 
+Comparecimentos: "291" 
+Abstencoes: "52"
+
+Secao: "134"
+Aptos: "391" 
+Comparecimentos: "330" 
+Abstencoes: "61"
+
+Secao: "135"
+Aptos: "384" 
+Comparecimentos: "316" 
+Abstencoes: "68"
+
+Secao: "136"
+Aptos: "309" 
+Comparecimentos: "262" 
+Abstencoes: "47"
+
+Secao: "137"
+Aptos: "391" 
+Comparecimentos: "311" 
+Abstencoes: "80"
+
+Secao: "140"
+Aptos: "390" 
+Comparecimentos: "323" 
+Abstencoes: "67"
+
+Secao: "142"
+Aptos: "303" 
+Comparecimentos: "270" 
+Abstencoes: "33"
+
+Secao: "144"
+Aptos: "357" 
+Comparecimentos: "296" 
+Abstencoes: "61"
+
+Secao: "145"
+Aptos: "388" 
+Comparecimentos: "315" 
+Abstencoes: "73"
+
+Secao: "148"
+Aptos: "362" 
+Comparecimentos: "311" 
+Abstencoes: "51"
+
+Secao: "149"
+Aptos: "385" 
+Comparecimentos: "326" 
+Abstencoes: "59"
+
+Secao: "150"
+Aptos: "386" 
+Comparecimentos: "298" 
+Abstencoes: "88"
+
+Secao: "152"
+Aptos: "340" 
+Comparecimentos: "270" 
+Abstencoes: "70"
+
+Secao: "153"
+Aptos: "357" 
+Comparecimentos: "278" 
+Abstencoes: "79"
+
+Secao: "155"
+Aptos: "376" 
+Comparecimentos: "302" 
+Abstencoes: "74"
+
+Secao: "156"
+Aptos: "364" 
+Comparecimentos: "292" 
+Abstencoes: "72"
+
+Secao: "157"
+Aptos: "391" 
+Comparecimentos: "319" 
+Abstencoes: "72"
+
+Secao: "158"
+Aptos: "384" 
+Comparecimentos: "302" 
+Abstencoes: "82"
+
+Secao: "159"
+Aptos: "422" 
+Comparecimentos: "329" 
+Abstencoes: "93"
+
+Secao: "161"
+Aptos: "340" 
+Comparecimentos: "288" 
+Abstencoes: "52"
+
+Secao: "162"
+Aptos: "393" 
+Comparecimentos: "318" 
+Abstencoes: "75"
+
+Secao: "163"
+Aptos: "304" 
+Comparecimentos: "241" 
+Abstencoes: "63"
+
+Secao: "165"
+Aptos: "435" 
+Comparecimentos: "321" 
+Abstencoes: "114"
+
+Secao: "169"
+Aptos: "373" 
+Comparecimentos: "293" 
+Abstencoes: "80"
+
+Secao: "170"
+Aptos: "378" 
+Comparecimentos: "293" 
+Abstencoes: "85"
+
+Secao: "171"
+Aptos: "333" 
+Comparecimentos: "261" 
+Abstencoes: "72"
+
+Secao: "173"
+Aptos: "372" 
+Comparecimentos: "287" 
+Abstencoes: "85"
+
+Secao: "175"
+Aptos: "352" 
+Comparecimentos: "274" 
+Abstencoes: "78"
+
+Secao: "176"
+Aptos: "384" 
+Comparecimentos: "300" 
+Abstencoes: "84"
+
+Secao: "179"
+Aptos: "386" 
+Comparecimentos: "281" 
+Abstencoes: "105"
+
+Secao: "180"
+Aptos: "395" 
+Comparecimentos: "329" 
+Abstencoes: "66"
+
+Secao: "182"
+Aptos: "369" 
+Comparecimentos: "306" 
+Abstencoes: "63"
+
+Secao: "183"
+Aptos: "383" 
+Comparecimentos: "288" 
+Abstencoes: "95"
+
+Secao: "184"
+Aptos: "384" 
+Comparecimentos: "305" 
+Abstencoes: "79"
+
+Secao: "185"
+Aptos: "360" 
+Comparecimentos: "292" 
+Abstencoes: "68"
+
+Secao: "193"
+Aptos: "370" 
+Comparecimentos: "307" 
+Abstencoes: "63"
+
+Secao: "195"
+Aptos: "384" 
+Comparecimentos: "286" 
+Abstencoes: "98"
+
+Secao: "198"
+Aptos: "362" 
+Comparecimentos: "290" 
+Abstencoes: "72"
+
+Secao: "199"
+Aptos: "386" 
+Comparecimentos: "292" 
+Abstencoes: "94"
+
+Secao: "200"
+Aptos: "343" 
+Comparecimentos: "281" 
+Abstencoes: "62"
+
+Secao: "206"
+Aptos: "391" 
+Comparecimentos: "300" 
+Abstencoes: "91"
+
+Secao: "207"
+Aptos: "291" 
+Comparecimentos: "259" 
+Abstencoes: "32"
+
+Secao: "212"
+Aptos: "45" 
+Comparecimentos: "31" 
+Abstencoes: "14"
+
